@@ -7,14 +7,61 @@ Note: as Open AI Sora is still in its early stages, the awesome list will be upd
 ## Table of Contents
 
 <!-- - [Learning Websites](#learning-websites) -->
-- [Blog Posts](#blog-posts)
 - [Videos](#videos)
+- [Blog Posts](#blog-posts)
 - [Utilities](#utilities)
 - [Podcasts](#podcasts)
 
 <!-- ## Learning Websites
 
 - Sora Hunters: [https://guide.sorahunters.com](https://guide.sorahunters.com): Find Sora video inspiration, in-depth tutorials, and expert tips to enhance your AI video generation skills.  -->
+
+## Videos
+
+- [Introducing Sora — OpenAI's text-to-video model](https://www.youtube.com/watch?v=HK6y8DAPN_0)  
+  OpenAI introduces Sora, their text-to-video model capable of creating 60-second videos with detailed scenes and complex camera motion.
+
+- [How does OpenAI's Sora work?](https://www.youtube.com/watch?v=fG3IE9dkyKY)  
+  OpenAI explains the high-level functioning of Sora, their text-to-video model for generating high-quality videos from text prompts.
+
+- [OpenAI unveils Sora, an AI-video generator](https://www.youtube.com/watch?v=lBx3xW1ua-E)  
+  OpenAI unveils Sora, a new AI model that transforms written prompts into videos.
+
+- [OpenAI's Sora Simulates REALITY](https://www.youtube.com/watch?v=y8MKnEGGT9g)  
+  OpenAI's Sora goes beyond text-to-video, simulating physics in ways that were previously unimaginable.
+
+- [OpenAI shocks the world yet again… Sora first look](https://www.youtube.com/watch?v=tWP6z0hvw1M)  
+  OpenAI's state-of-the-art video generation AI model, Sora, is introduced and its potential impact is explored.
+
+- [OpenAI unveils text-to-video tool Sora](https://www.youtube.com/watch?v=SkCz4LqzNF4)  
+  NBC News explains OpenAI's new tool, Sora, which can turn text into video.
+
+- [Sora is OpenAI's latest MASTERPIECE in AI generated Text-to-Video](https://www.youtube.com/watch?v=oK1EWuyPXUM)  
+  OpenAI releases Sora, a groundbreaking text-to-video generator capable of creating never-before-seen videos.
+
+- [Gravitas | OpenAI's text-to-video AI generator: All about Sora](https://www.youtube.com/watch?v=SEW1We5Uieg)  
+  Gravitas covers OpenAI's latest AI tool, Sora, which allows users to generate videos from text.
+
+- [HOW TO USE SORA openAI video generator ?FAQS](https://www.youtube.com/watch?v=49hYPlFku5A)  
+  In this video, learn how to use or login into SORA Open AI.
+
+- [OpenAI Unveils Text-To-Video Generator 'Sora' | Creating One-Minute Videos Via Text Prompt](https://www.youtube.com/watch?v=_8L2REuvK2k)  
+  OpenAI presents '#Sora', a tool to create one-minute videos from written prompts, with an explanation of how it works.
+
+- [OpenAi Sora: Five grey wolf pups chasing each other.](https://www.youtube.com/watch?v=jspYKxFY7Sc)  
+  OpenAi Sora's mind-blowing text-to-video AI generator is demonstrated with a sample featuring five gray wolf pups chasing each other.
+
+- [OpenAI's Sora Text-To-Video Project](https://www.youtube.com/watch?v=ZxxPbk-mTGA)  
+  OpenAI presents the Sora Text-To-Video Project, providing insights into this innovative technology.
+
+- [OpenAI's Sora Does Video-to-Video #AI #technology #sora](https://www.youtube.com/watch?v=XsNzvTEKzFI)  
+  OpenAI's SORA model surprises everyone, and this video discusses the interesting aspects of this text-to-video AI model.
+
+- [Introducing Sora — OpenAI's text-to-video model](https://m.youtube.com/watch?si=UfGVH9jTOgNshPAW&v=HK6y8DAPN_0&feature=youtu.be)  
+  Introduction to Sora, OpenAI's text-to-video model, including an overview of its capabilities.
+
+- [OpenAI's new text to video generator Sora](https://www.youtube.com/shorts/ojn9Z1XoDOY)  
+  Preview of OpenAI's new text-to-video generator called Sora.  
 
 ## Blog Posts
 
@@ -67,70 +114,43 @@ Note: as Open AI Sora is still in its early stages, the awesome list will be upd
    An introduction to Sora, showcasing its ability to produce cinematic-quality video clips, heralding a new age for generative video technology.
 
 
-
-## Videos
-
-- [Introducing Sora — OpenAI's text-to-video model - YouTube](https://www.youtube.com/watch?v=HK6y8DAPN_0)
-  OpenAI introduces Sora, their text-to-video model capable of creating 60-second videos with detailed scenes and complex camera motion.
-  
-- [How does OpenAI's Sora work? - YouTube](https://www.youtube.com/watch?v=fG3IE9dkyKY)
-  OpenAI explains the high-level functioning of Sora, their text-to-video model for generating high-quality videos from text prompts.
-- [OpenAI unveils Sora, an AI-video generator - YouTube](https://www.youtube.com/watch?v=lBx3xW1ua-E)
-  OpenAI unveils Sora, a new AI model that transforms written prompts into videos.
-- [OpenAI's Sora Simulates REALITY - YouTube](https://www.youtube.com/watch?v=y8MKnEGGT9g)
-  OpenAI's Sora goes beyond text-to-video, simulating physics in ways that were previously unimaginable.
-- [OpenAI shocks the world yet again… Sora first look - YouTube](https://www.youtube.com/watch?v=tWP6z0hvw1M)
-  OpenAI's state-of-the-art video generation AI model, Sora, is introduced and its potential impact is explored.
-- [OpenAI unveils text-to-video tool Sora - YouTube](https://www.youtube.com/watch?v=SkCz4LqzNF4)
-  NBC News explains OpenAI's new tool, Sora, which can turn text into video.
-- [Sora is OpenAI's latest MASTERPIECE in AI generated Text-to-Video](https://www.youtube.com/watch?v=oK1EWuyPXUM)
-  OpenAI releases Sora, a groundbreaking text-to-video generator capable of creating never-before-seen videos.
-- [Gravitas | OpenAI's text-to-video AI generator: All about Sora](https://www.youtube.com/watch?v=SEW1We5Uieg)
-  Gravitas covers OpenAI's latest AI tool, Sora, which allows users to generate videos from text.
-- [HOW TO USE SORA openAI video generator ?FAQS - YouTube](https://www.youtube.com/watch?v=49hYPlFku5A)
-  In this video, learn how to use or login into SORA Open AI.
-- [OpenAI Unveils Text-To-Video Generator 'Sora' | Creating One-Minute Videos Via Text Prompt](https://www.youtube.com/watch?v=_8L2REuvK2k)
-  OpenAI presents '#Sora', a tool to create one-minute videos from written prompts, with an explanation of how it works.
-- [OpenAi Sora: Five grey wolf pups chasing each other. - YouTube](https://www.youtube.com/watch?v=jspYKxFY7Sc)
-  OpenAi Sora's mind-blowing text-to-video AI generator is demonstrated with a sample featuring five gray wolf pups chasing each other.
-- [OpenAI's Sora Text-To-Video Project - YouTube](https://www.youtube.com/watch?v=ZxxPbk-mTGA)
-  OpenAI presents the Sora Text-To-Video Project, providing insights into this innovative technology.
-- [OpenAI's Sora Does Video-to-Video #AI #technology #sora - YouTube](https://www.youtube.com/watch?v=XsNzvTEKzFI)
-  OpenAI's SORA model surprises everyone, and this video discusses the interesting aspects of this text-to-video AI model.
-- [Introducing Sora — OpenAI's text-to-video model - YouTube](https://m.youtube.com/watch?si=UfGVH9jTOgNshPAW&v=HK6y8DAPN_0&feature=youtu.be)
-  Introduction to Sora, OpenAI's text-to-video model, including an overview of its capabilities.
-- [OpenAI's new text to video generator Sora - YouTube](https://www.youtube.com/shorts/ojn9Z1XoDOY)
-  Preview of OpenAI's new text-to-video generator called Sora.
-
-
 ## Utilities
 
-- [Sora Alternatives: Top 9 AI Video Generators & Similar Websites](https://alternativeto.net/software/sora-1/)
+- [Sora Alternatives: Top 9 AI Video Generators & Similar Websites](https://alternativeto.net/software/sora-1/)  
   Sora is described as OpenAI's text-to-video model and is an AI video generator. The list includes nine alternative apps similar to Sora for various platforms.
-- [Sora by OpenAI - Create minute-long videos using text prompts](https://www.producthunt.com/posts/sora-by-openai)
+
+- [Sora by OpenAI - Create minute-long videos using text prompts](https://www.producthunt.com/posts/sora-by-openai)  
   Sora is an AI model that can create realistic and imaginative scenes from text instructions.
-- [SoraHub - Explore the newest OpenAI Sora-generated videos and prompts](https://www.producthunt.com/posts/sorahub)
+
+- [SoraHub - Explore the newest OpenAI Sora-generated videos and prompts](https://www.producthunt.com/posts/sorahub)  
   Explore the newest Sora-generated videos and prompts showcasing cutting-edge AI creativity in one convenient platform.
-- [Sora: AI model that can create realistic and imaginative video](https://alternativeto.net/software/sora-1/about/)
+
+- [Sora: AI model that can create realistic and imaginative video](https://alternativeto.net/software/sora-1/about/)  
   Sora is OpenAI's text-to-video model capable of generating videos up to a minute long while maintaining visual quality and adherence to the user's prompt.
-- [Open AI Sora Makers](https://www.producthunt.com/products/open-ai-sora/makers)
+
+- [Open AI Sora Makers](https://www.producthunt.com/products/open-ai-sora/makers)  
   Here are the founders, developers, designers, and product people who worked on Open AI Sora.
-- [Open AI Sora](https://www.producthunt.com/products/open-ai-sora/launches)
-  Create stunning videos from text with OpenAI Sora. Transform your ideas into captivating visuals effortlessly. Try Sora for free online now! ⚡️
-- [Sora by OpenAI](https://www.producthunt.com/products/sora-by-openai/launches)
+
+- [Open AI Sora](https://www.producthunt.com/products/open-ai-sora/launches)  
+  Create stunning videos from text with OpenAI Sora. Transform your ideas into captivating visuals effortlessly. Try Sora for free online now!
+
+- [Sora by OpenAI](https://www.producthunt.com/products/sora-by-openai/launches)  
   OpenAI presents Sora, a pioneering text-to-video model, designed to bridge the gap between textual prompts and video generation.
-- [OpenAI unveils Sora, a new AI model for generating photorealistic videos from text prompts](https://alternativeto.net/news/2024/2/openai-unveils-sora-a-new-ai-model-for-generating-photorealistic-videos-from-text-prompts/)
-  OpenAI has introduced its new Text-to-Video AI model, Sora, capable of creating highly realistic video scenes from text prompts.
+
+- [OpenAI unveils Sora, a new AI model for generating photorealistic videos from text prompts](https://alternativeto.net/news/2024/2/openai-unveils-sora-a-new-ai-model-for-generating-photorealistic-videos-from-text-prompts/)  
+  OpenAI has introduced its new Text-to-Video AI model, Sora, capable of creating highly realistic video scenes from text prompts.  
 
 
 ## Podcasts
 
-- [AI For Humans | Podcast on Spotify](https://open.spotify.com/show/5FId0qPP5SldltQTgVFTxq)
+- [AI For Humans](https://open.spotify.com/show/5FId0qPP5SldltQTgVFTxq)  
   A weekly podcast hosted by industry veterans Gavin Purcell and Kevin Pereira, exploring the fascinating world of artificial intelligence in an accessible way for non-technical listeners.
-- [The Artificial Intelligence Show | Podcast on Spotify](https://open.spotify.com/show/6EVaCucTjIPmJosh3jQui0)
+
+- [The Artificial Intelligence Show](https://open.spotify.com/show/6EVaCucTjIPmJosh3jQui0)  
   The podcast that helps businesses grow smarter by making AI approachable and actionable, providing insights and perspectives on AI news.
-- [The Cognitive Revolution | AI Builders, Researchers, and Live Player Analysis](https://open.spotify.com/show/6yHyok3M3BjqzR0VB5MSyk)
-  This podcast episode features a discussion on OpenAI's Sora model and other AI-related topics, exploring the dramatic shift it will unlock in the coming years.
+
+- [The Cognitive Revolution | AI Builders, Researchers, and Live Player Analysis](https://open.spotify.com/show/6yHyok3M3BjqzR0VB5MSyk)  
+  This podcast episode features a discussion on OpenAI's Sora model and other AI-related topics, exploring the dramatic shift it will unlock in the coming years.  
 
 ---
 
