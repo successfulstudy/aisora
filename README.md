@@ -71,6 +71,7 @@ Note: as Open AI Sora is still in its early stages, the awesome list will be upd
 ## Videos
 
 - [Introducing Sora — OpenAI's text-to-video model - YouTube](https://www.youtube.com/watch?v=HK6y8DAPN_0)
+
   OpenAI introduces Sora, their text-to-video model capable of creating 60-second videos with detailed scenes and complex camera motion.
 - [How does OpenAI's Sora work? - YouTube](https://www.youtube.com/watch?v=fG3IE9dkyKY)
   OpenAI explains the high-level functioning of Sora, their text-to-video model for generating high-quality videos from text prompts.
