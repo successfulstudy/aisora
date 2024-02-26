@@ -158,8 +158,8 @@ Note: as Open AI Sora is still in its early stages, the awesome list will be upd
 
 If you have any resources, insights, or experiences related to AI that you'd like to share, we're all ears! Feel free to leave your contributions in the [issues section](https://github.com/successfulstudy/aisora/issues) of our GitHub repository. 
 
-[Discord](https://discord.gg/McVJrJKT) Follow us on [Discord](https://discord.gg/McVJrJKT)!  
+Follow us on [Discord](https://discord.gg/McVJrJKT)!  
 
-[Website](http://sorahunters.com) Visit our website: [sorahunters.com](http://sorahunters.com)  
+Join us on [Reddit](https://www.reddit.com/r/sora_genAI/)  
 
-[Reddit](REDDIT_ICON_URL)(https://www.reddit.com/r/sora_genAI/) Join us on [Reddit](https://www.reddit.com/r/sora_genAI/)  
+Visit our website: [sorahunters.com](http://sorahunters.com)  
