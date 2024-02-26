@@ -121,4 +121,4 @@ Note: as Open AI Sora is still in its early stages, the awesome list will be upd
 
 ## Contribute to Our Project
 
-If you have any resources, insights, or experiences related to AI that you'd like to share, we're all ears! Feel free to leave your contributions in the [issues section](https://github.com/aisora/issues) of our GitHub repository. Your input is invaluable in enriching our community's understanding and exploration of artificial intelligence. Let's collaborate and make a difference together!
+If you have any resources, insights, or experiences related to AI that you'd like to share, we're all ears! Feel free to leave your contributions in the [issues section](https://github.com/successfulstudy/aisora/issues) of our GitHub repository. Your input is invaluable in enriching our community's understanding and exploration of artificial intelligence. Let's collaborate and make a difference together!
